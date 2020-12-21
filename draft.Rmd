@@ -2,7 +2,7 @@
 title: "international_paper"
 author: "David McAllister on behalf of Research and Epidemiology Cell of PHS"
 date: "09/12/2020"
-output: html_document
+output: github_document
 bibliography: references.bib
 csl: the-lancet.csl
 ---
